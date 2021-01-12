@@ -1,2 +1,2 @@
-# my-components
-storage of basic components os mine
+making simple components for future use
+<footer>
